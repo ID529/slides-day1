@@ -1,0 +1,54 @@
+
+/*-- scss:defaults --*/
+.green-fifteen-pt { 
+  font-size: 15pt; 
+  color: green;
+}
+
+h1 .title {
+  font-size: 45px;
+}
+
+.title {
+  //font-style: italic;
+  //font-variant: small-caps;
+}
+
+.carrot {
+  color: #e67e22;
+}
+
+
+.column {
+  float: left;
+  width: 50%;
+  display: table;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+} 
+
+span.tab{
+    padding: 0 20px; /* Or desired space*/
+}
+
+section.has-dark-background h1 h2 p li {
+  text-shadow: #000 0 0 100px;
+}
+
+.small {
+  font-size: 24px !important;
+}
+
+.smaller {
+  font-size: 32px !important;
+}
+
+
+table.links td.links {
+  border: none;
+}

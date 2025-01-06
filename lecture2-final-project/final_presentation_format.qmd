@@ -1,0 +1,113 @@
+---
+title: "Intro to the Final Project Format"
+format: 
+  revealjs:
+    theme: [default, style.css]
+    template-partials:
+      - title-slide.html
+title-graphic: ID529-CON-2024.png
+slide-number: true
+title-slide-attributes: 
+  data-background-image: "graphics/transition_slides/ashley-whitlatch.jpg"
+  data-background-opacity: "40%"
+  data-background-color: "black"
+---
+
+## overview  {background-color='#ffcccc' background-opacity='40%'}
+
+:::{.incremental}
+  - students will be in groups of about five to collectively do a data analysis project.
+  - choose a public health related dataset that has quite a few columns and observations. 
+  - students should think about if there are datasets they can merge together to create more interesting observations.
+:::
+
+## data sources  {background-color='#ffeaa7' background-opacity='40%'}
+
+<div style='font-size: 18px;'>
+  - Johns Hopkins Bloomberg American Health Initiative Open Case Studies Project <https://americanhealth.jhu.edu/open-case-studies>
+  - CDC Websites like: 
+    - CDC WONDER (<https://wonder.cdc.gov/>)
+    - AtlasPlus (<https://www.cdc.gov/nchhstp/Atlas/>)
+    - Social Vulnerability Index (<https://www.atsdr.cdc.gov/placeandhealth/svi/index.html>)
+    - CDC Data and Statistics (<https://www.cdc.gov/datastatistics/index.html>) 
+  - National Longitudinal Survey of Youth 1979 (<https://www.nlsinfo.org/content/cohorts/nlsy79>)
+  - Data Portals like the City of Chicago’s (https://data.cityofchicago.org/), King County WA (<https://data.kingcounty.gov/>) 
+  - Data.gov (<https://data.gov/>)
+  - datasets used in Kaggle competitions (<https://www.kaggle.com/>) (signup required)
+  - Google’s Dataset Search (<https://datasetsearch.research.google.com/>)
+  - Search the NYTimes GitHub repositories for “-data”: <https://github.com/nytimes/> 
+  - Tidytuesday Datasets: <https://github.com/rfordatascience/tidytuesday> 
+  - Harvard DataVerse: <https://dataverse.harvard.edu/>
+</div>
+
+## organization  {background-color='#86C0FF' background-opacity='40%'}
+
+<div style='font-size: 22px;'>
+:::{.incremental}
+  - Work together to submit a GitHub repository that
+contains a reproducible document created in R Markdown or Quarto including its
+code. 
+  - Both the R Markdown / Quarto document and the GitHub repository itself
+should be well organized and documented.
+  - In the reproducible document produced, we are looking to see the following: 
+    - An introduction to the topic and motivation
+    - Text describing the analysis/programming
+    - Conclusions
+    - At least one (nice) table 
+    - Either one very nice, polished infographic style figure, or a few informative, well-labeled and interesting figures about what you found in investigating the data.
+    - Please include an author contributions statement at the end.
+:::
+</div>
+
+## rubric  {background-color='#f6e58d' background-opacity='40%'}
+
+<div style='font-size: 22px;'>
+
+<table>
+
+<tr> 
+<th> Objective/Principle </th> <th> Percent of Grade </th> 
+</tr>
+<tr>
+<th> 
+Does the project demonstrate the reproducible workflow principles taught in the class? This includes: 
+
+<ul>
+<li>Clearly commented code </li> 
+<li> A well-organized GitHub repository </li> 
+<li> The creation of informative, well-labeled visualizations and at least one table </li> </ul> </th> 
+
+<th> 75% </th> </tr>
+<tr>
+<th> 
+The repository should include reflections about what students learned in the process of completing the final project. These reflections should note
+
+<ol>
+<li>what students figured out how to do along-the-way</li>
+<li>what they struggled with</li>
+<li>what they wouldn’t have been able to do before taking this class, and 
+<li>what principles they found useful in decision-making during the project.</li>
+</ol>
+</th> 
+
+<th> 25% </th>
+</tr>
+
+</table> 
+</div>
+  
+  
+## a quick survey 
+
+:::: {.columns}
+::: {.column width="40%"}
+please do the following survey: 
+
+bit.ly/id529-day1
+:::
+
+::: {.column width="40%"}
+<img src="day1-survey-qr-code.png" alt='QR code for the day 1 survey; same as the bit.ly link'>
+:::
+::::
+
