@@ -690,7 +690,7 @@ any commits from the remote server.
 
 :::{.columns}
 :::{.column width='30%'}
-<img src="graphics/hodu_tips/HoduClone.png" alt="Hodu Tip! with two Dogs">
+<img src="https://github.com/ID529/lectures2024/blob/master/graphics/hodu_tips/HoduClone.png?raw=true" alt="Hodu Tip! with two Dogs">
 :::
 :::{.column .xsmall width='70%'}
 you can use the `git clone` command to copy a repository from a remote server
@@ -904,4 +904,4 @@ image from <https://www.youtube.com/watch?v=wcx6SH8Oqhs>
 :::
 
 
-# time for a live demo 🤞 {background-color='black'  background-opacity='40%' background-image="transition_slides/yen-vu.jpg"}
+# time for a live demo 🤞 {background-color='black'  background-opacity='40%' background-image="https://github.com/ID529/lectures2024/blob/master/graphics/transition_slides/yen-vu.jpg?raw=true"}

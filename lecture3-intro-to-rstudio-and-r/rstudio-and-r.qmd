@@ -8,7 +8,7 @@ template-partials:
 title-graphic: R-and-Rstudio.png
 slide-number: true
 title-slide-attributes: 
-  data-background-image: "graphics/transition_slides/manuel-will.jpg"
+  data-background-image: "https://github.com/ID529/lectures2024/blob/master/graphics/transition_slides/manuel-will.jpg?raw=true"
   data-background-opacity: "70%"
   data-background-color: "black"
 revealjs-plugins:
@@ -45,7 +45,7 @@ If you haven't installed R and RStudio yet, please download and install them fro
 
 <img src='images/initial_workflow/download_versions.png'>
 
-# let's start with RStudio {background-color='black' background-image="transition_slides/manuel-will.jpg" background-opacity='70%'}
+# let's start with RStudio {background-color='black' background-image="https://github.com/ID529/lectures2024/blob/master/graphics/transition_slides/manuel-will.jpg?raw=true" background-opacity='70%'}
 
 # RStudio
 
@@ -225,7 +225,7 @@ folder does R have open right now?"</span>
 
 <img src="images/initial_workflow/rstudio_ide_cheatsheet.png">
 
-# basics of R {background-color="black" background-image="transition_slides/manuel-will.jpg" background-opacity='40%'}
+# basics of R {background-color="black" background-image="https://github.com/ID529/lectures2024/blob/master/graphics/transition_slides/manuel-will.jpg?raw=true" background-opacity='40%'}
 
 :::{.notes}
 Generally we would recommend that you run all your R code in RStudio
@@ -949,7 +949,7 @@ learning how to <span class='carrot'>**help yourself**</span> learn R is one of 
 :::
 
 
-# key takeaways {background-image='transition_slides/manuel-will.jpg' background-color='black' background-opacity='40%'}
+# key takeaways {background-image='https://github.com/ID529/lectures2024/blob/master/graphics/transition_slides/manuel-will.jpg?raw=true' background-color='black' background-opacity='40%'}
 
 :::{.incremental}
   * R and RStudio are available for you to download, for free

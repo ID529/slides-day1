@@ -8,7 +8,7 @@ template-partials:
 title-graphic: id529-sticker.png
 slide-number: true
 title-slide-attributes:
-  data-background-image: 'graphics/transition_slides/lilzidesigns.jpg' 
+  data-background-image: 'https://images.unsplash.com/photo-1639431682289-72b9ebb75895' 
   data-background-color: 'black' 
   data-background-opacity: '30%'
 ---
@@ -95,7 +95,7 @@ I've been a self-taught programmer for >25 years 🫠 and I love learning from o
 :::{.column width='60%'}
 
 <center>
-<img src="graphics/hodu_pics/christmas_hodu.jpeg" alt='hodu, a white fluffy dog, in a santa hat with a tie' height='550px'>
+<img src="https://github.com/ID529/lectures/blob/main/graphics/hodu_pics/christmas_hodu.jpeg?raw=true" alt='hodu, a white fluffy dog, in a santa hat with a tie' height='550px'>
 </center>
 :::
 
@@ -117,7 +117,7 @@ he loves dogs, people, and treats. <br><br>
 
 
 
-# course philosophy {background-image="graphics/transition_slides/harvard-green.jpg" background-color='black' background-opacity='40%'}
+# course philosophy {background-image="https://github.com/ID529/lectures2024/blob/master/graphics/transition_slides/harvard-green.jpg?raw=true" background-color='black' background-opacity='40%'}
 
 ## our goals 
 
@@ -145,7 +145,7 @@ before we dive in, we want to make sure you have a few things in hand:
   * our syllabus: <br>
     <span class='tab'></span>{{< fa graduation-cap >}} <https://id529.github.io/syllabus/>
     
-<center><img height='200px' src="graphics/gifs/dog-with-paper.gif" alt='gif of a golden retriever with the newspaper'></center>
+<center><img height='200px' src="https://github.com/ID529/lectures2024/blob/master/graphics/gifs/dog-with-paper.gif?raw=true" alt='gif of a golden retriever with the newspaper'></center>
   
 ## key objectives 
 
@@ -202,7 +202,7 @@ We think every data analyst needs to know something about each of:
 ##
 
 <center>
-<img src="graphics/memes/shocked_pikachu_any_analysis.png"
+<img src="https://github.com/ID529/lectures2024/blob/master/graphics/memes/shocked_pikachu_any_analysis.png?raw=true"
   alt = "That moment when you realize R can be used for basically any statistical analysis you can imagine, shocked pikachu meme" style='width: 50%'>
 </center>
 
@@ -250,7 +250,7 @@ using the homeworks to <span class='carrot'>**challenge yourself in a healthy, p
 
 :::{.fragment}
 <center>
-<img src="graphics/memes/its-fine-meme.jpg" height='280px' alt='a little dog surrounded by lush plants saying this is fine'>
+<img src="https://github.com/ID529/lectures2024/blob/master/graphics/memes/its-fine-meme.jpg?raw=true" height='280px' alt='a little dog surrounded by lush plants saying this is fine'>
 </center>
 :::
 
@@ -271,8 +271,8 @@ your peer reviews will be evaluated on the following rubric:
 
 <center>
 :::{.fragment}
-<img src="graphics/hodu_pics/constructive_feedback.jpeg" alt='one puppy barking at another who is standing on a platform' height='400px'>
-<img src="graphics/hodu_pics/hodu_and_sabre.jpeg" alt='one puppy barking at another who is standing on a platform' height='400px'>
+<img src="https://github.com/ID529/lectures2024/blob/master/graphics/hodu_pics/constructive_feedback.jpeg?raw=true" alt='one puppy barking at another who is standing on a platform' height='400px'>
+<img src="https://github.com/ID529/lectures2024/blob/master/graphics/hodu_pics/hodu_and_sabre.jpeg?raw=true" alt='one puppy barking at another who is standing on a platform' height='400px'>
 :::
 </center>
 
@@ -324,9 +324,9 @@ source: <https://www.mwra.com/biobot/biobotdata.htm>
   * please wear a mask 
   * please stay home if you have symptoms / feel sick
 
-# time for a live demo 🤞 {background-color='black'  background-opacity='40%' background-image="graphics/transition_slides/yen-vu.jpg"}
+# time for a live demo 🤞 {background-color='black'  background-opacity='40%' background-image="https://github.com/ID529/lectures2024/blob/master/graphics/transition_slides/yen-vu.jpg?raw=true"}
 
-## what are some of the principles that the live demo employed?  {background-color='black'  background-opacity='40%' background-image="graphics/transition_slides/corey-bruce.jpg"}
+## what are some of the principles that the live demo employed?  {background-color='black'  background-opacity='40%' background-image="https://github.com/ID529/lectures2024/blob/master/graphics/transition_slides/corey-bruce.jpg?raw=true"}
 
 :::{.fragment}
 enter your questions / thoughts on <a href='https://bit.ly/day1-discussion'>bit.ly/day1-discussion</a>
@@ -338,5 +338,4 @@ enter your questions / thoughts on <a href='https://bit.ly/day1-discussion'>bit.
   * data visualizations support exploratory data analysis and communicating results
   * ample reliance on tools that are already out there
 :::
-
 
