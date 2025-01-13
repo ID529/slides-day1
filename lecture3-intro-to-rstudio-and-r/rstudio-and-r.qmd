@@ -469,19 +469,19 @@ some functions to use with matrices
 
 
 :::{.fragment .absolute top='10%' left='0%'}
-<img src="hodu_pics/IMG_1646.jpeg" width='300px' alt='Hodu body length'>
+<img src="https://github.com/ID529/lectures2024/blob/master/graphics/hodu_pics/IMG_1646.jpeg?raw=true" width='300px' alt='Hodu body length'>
 :::
 
 :::{.fragment .absolute top='10%' left='0%'}
-<img src="hodu_pics/IMG_1648.jpeg" width='300px' alt="Hodu's ear width">
+<img src="https://github.com/ID529/lectures2024/blob/master/graphics/hodu_pics/IMG_1648.jpeg?raw=true" width='300px' alt="Hodu's ear width">
 :::
 
 :::{.fragment .absolute top='10%' left='0%'}
-<img src="hodu_pics/IMG_1653.jpeg" width='300px' alt="Hodu's nose">
+<img src="https://github.com/ID529/lectures2024/blob/master/graphics/hodu_pics/IMG_1653.jpeg?raw=true" width='300px' alt="Hodu's nose">
 :::
 
 :::{.fragment .absolute top='10%' left='0%'}
-<img src="hodu_pics/IMG_7002.jpg" height='400px' alt="Hodu and three friends">
+<img src="https://github.com/ID529/lectures2024/blob/master/graphics/hodu_pics/IMG_7002.jpg?raw=true" height='400px' alt="Hodu and three friends">
 :::
 :::
 

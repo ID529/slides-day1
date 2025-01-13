@@ -5,7 +5,7 @@ format:
     theme: [default, style.css]
     template-partials:
       - title-slide.html
-title-graphic: ID529-CON-2024.png
+title-graphic: ID529-CON-2025.png
 slide-number: true
 title-slide-attributes: 
   data-background-image: "https://github.com/ID529/lectures2024/blob/master/graphics/transition_slides/ashley-whitlatch.jpg?raw=true"

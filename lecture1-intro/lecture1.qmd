@@ -24,16 +24,16 @@ title-slide-attributes:
 
 ::: {.column width="70%"}
 :::{.small}
-Hi!  I'm Christian Testa 👋  I'm now a 1st year PhD student in 
-Biostatistics and I've been a statistical analyst working at the
-Harvard T.H. Chan School of Public Health for a little over 6 years.
+Hi!  I'm Christian Testa 👋  I'm now a 2nd year PhD student in 
+Biostatistics (started in 2023).  From 2017-2023, I was a statistical analyst here at the
+Harvard T.H. Chan School of Public Health.
 
-My recent research has focused on addressing health disparities and
-inequities in the US.  
+My recent research has focused on causal inference, health disparities, spatio-temporal statistics, and infectious disease epidemiology.  
 
-The projects I've worked on recently have focused on epigenetic
+Some of the projects I've worked on with Jarvis and Nancy Krieger have focused on epigenetic
 aging, multiple types of discrimination, COVID-19, and spatiotemporal
-methods in epidemiology. <br><br>
+methods, especially disease mapping models. More recently I've been focused on longitudinal modified
+treatment policies under interference. <br><br>
 :::
 
 :::{.small}
@@ -315,13 +315,35 @@ us.
 we'll be recording the lectures (but not discussions) and posting them online so
 you can refer back to them during the course and after.
 
+## generative AI 
+
+:::{.smaller}
+:::{.incremental}
+Generally, we support you using the Harvard AI Sandbox to help you learn 
+to program and experiment with new ideas. However, AI/LLM software often makes 
+mistakes, so you should vet all of its responses before believing anything. 
+
+:::{.fragment}
+Running large models comes at costs in terms of electricity used to 
+train and query them, rare earth minerals mined to go into GPUs, etc., so realize 
+you should be mindful of the resources you're consuming and not just turning to 
+AI to solve every problem for you. 
+:::
+
+:::{.fragment}
+We will prioritize teaching you other, more conventional ways to get help 
+in your journey to learn R. 
+:::
+:::
+:::
+
 ## covid policy {.small}
 
-<img src="https://www.mwra.com/biobot/MWRAData20230103-NorthGraph.JPG" alt="biobot wastewater data from the Boston area">
+<img src="https://www.mwra.com/sites/default/files/styles/wysiwyg_image/public/2025-01/MWRAData20250109-NSGraph.JPG?itok=8rRCS5nJ" alt="biobot wastewater data from the Boston area">
 
 source: <https://www.mwra.com/biobot/biobotdata.htm>
 
-  * please wear a mask 
+  * please consider wearing a mask 
   * please stay home if you have symptoms / feel sick
 
 # time for a live demo 🤞 {background-color='black'  background-opacity='40%' background-image="https://github.com/ID529/lectures2024/blob/master/graphics/transition_slides/yen-vu.jpg?raw=true"}
