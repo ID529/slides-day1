@@ -217,6 +217,21 @@ folder does R have open right now?"</span>
 
 <img src="images/initial_workflow/keyboard_shortcuts.png">
 
+## some particularly important keyboard shortcuts
+
+:::{.small}
+
+  * Use `Cmd+Enter` (MacOS) or `Ctrl+Enter` (Windows/Linux) to 
+  run a line or highlighted code. 
+    <img src="images/initial_workflow/run.png">
+  * `Cmd+Shift+C`/`Ctrl+Shift+C` comments or uncomments selected lines. 
+  * `F1` pulls up help pages for the selected function. 
+  * `Cmd+Shift+A`/`Ctrl+Shift+A` reformats/reindents the selected code.
+  * `Alt -` inserts an `<-` into your code
+  * `Cmd+Shift+M`/`Ctrl+Shift+M` inserts a pipe `|>`
+
+:::
+
 ## RStudio IDE cheatsheet
 
 <img src="images/initial_workflow/rstudio_ide_cheatsheet_in_menu.png">

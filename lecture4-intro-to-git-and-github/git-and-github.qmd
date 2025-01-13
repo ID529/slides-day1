@@ -204,7 +204,7 @@ the form for creating an account on github
 ## set up an ssh key 
 
 :::{.fragment}
-we recommend setting up <span class='carrot'>**ssh (secure shell) key**</span> based authentication with
+you need to set up <span class='carrot'>**ssh (secure shell) key**</span> based authentication with
 github.<br><br>
 :::
 
@@ -215,6 +215,40 @@ this allows your computer to be <span class='carrot'>**automatically authenticat
 :::{.fragment}
 follow the instructions here:<br>
 <https://happygitwithr.com/ssh-keys.html>
+:::
+
+## how to set up ssh key 
+
+:::{.small}
+For Windows, I recommend installing `git bash` from here https://gitforwindows.org/ 
+and then opening it to run `ssh-keygen`. 
+
+Similarly, on MacOS / Linux, you should open terminal and run `ssh-keygen` if you haven't
+ever created an SSH public key before. 
+
+Once you do so, it will ask you a couple of questions like if you want to set up an additional 
+password and if the file location is correct.  Hit enter twice to use the defaults (no extra password
+and the `~/.ssh/id_rsa.pub` location) 
+
+Now run `cat ~/.ssh/id_rsa.pub` to print to your screen your SSH public key.  This is what you 
+will share with GitHub. 
+
+Note that the file produced may have a name like `~/.ssh/id_ed25519.pub` — that's okay too.
+:::
+
+## how to give GitHub your ssh key 
+
+:::{.small}
+Copy the SSH key printed to the screen to your copy/paste clipboard. 
+
+Navigate to your GitHub settings on github.com. 
+
+Go to SSH and GPG Keys $\to$ New SSH Key.  
+
+Paste your SSH public key in the Key text field
+and give the SSH key a name (indicative of what computer you're on).
+
+Click Add SSH Key and you're done.
 :::
 
 ## set up a local repository in rstudio
